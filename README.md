@@ -1,5 +1,6 @@
 # Example of apache jena-text full text search with external content using Apache Lucene
 
+
 ## Usage
 
 ```bash
@@ -10,3 +11,5 @@ $ mvn compile  # compile
 # run
 $ java -cp target/jena-text-full-text-search-with-external-content-1.0-SNAPSHOT.jar:target/lib/* com.atjiang.jena.App
 ```
+
+Also see [my blog article](http://www.atjiang.com/jena-text-full-text-search-with-external-content/) for this example project.
