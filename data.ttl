@@ -1,0 +1,4 @@
+@prefix email: <http://atjiang.com/data/email/> .
+
+<http://atjiang.com/data/email/id/id1> email:content "no_matter_what.txt" .
+<http://atjiang.com/data/email/id/id2> email:content "no_matter_what.txt" .
